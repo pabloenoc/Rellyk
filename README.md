@@ -7,7 +7,7 @@ Rellyk is a Rakefile-based blog management system for Jekyll websites. This is t
 - Start development server
 - Build site for production
 - Create new posts with populated front matter 
-- Organize markdown files `_posts/` directory by year and month
+- Organize markdown files in `_posts/` directory by year and month
 - Manage all posts
 - Manage recent posts
 - Colorized terminal output
